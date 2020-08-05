@@ -17,11 +17,17 @@ Hiring managers don't just want to see what you built, they want to see the reas
 We took these questions and cooked them into your labs experience. Please answer the following questions as you would in an interview. Remember, hiring managers care about the **process** and the **why** of building something even more than the what.
 
 1. Describe your **process** of breaking a release into user stories.
+    
     `Our process was just to look at the objectives in the roadmap and pull out bits and pieces that we think a user would want to see and experience. For example, one of our objectives is "Create visualizations that showcase past months spendings and visualizations that show possible future budgets." With that we planned that while a user is onboarding we are going to want to get some goals from them, and also display a budget in a fun and easy way to look at.`
+
 2. Choose a user story. Describe your **reasoning** as you broke down that particular user story into individual tasks.
+    
     `One of our user stories is "As a user, I should be onboarded." We decided to break this task down into 3 parts: Data Gathering, Setting Up Goals, and Overall Onboarding. We then took these 3 categories and made checklists for each of them to break it down even further and bring the details to life.`
+
 3. How long do you think the above user story will take to complete? Explain your reasoning.
+    
     `It is hard to tell at this point. I think the Setting Up Goals and Overall Onboarding will not take that long, but we do not have access to our database yet so knowing what questions we can ask for the Data Gathering part is hard to guess how long it will take to complete.`
+    
 
 ## Prompt 2 - Communicating Technical Decisions
 
