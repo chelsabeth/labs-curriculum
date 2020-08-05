@@ -17,8 +17,11 @@ Hiring managers don't just want to see what you built, they want to see the reas
 We took these questions and cooked them into your labs experience. Please answer the following questions as you would in an interview. Remember, hiring managers care about the **process** and the **why** of building something even more than the what.
 
 1. Describe your **process** of breaking a release into user stories.
+    `Our process was just to look at the objectives in the roadmap and pull out bits and pieces that we think a user would want to see and experience. For example, one of our objectives is "Create visualizations that showcase past months spendings and visualizations that show possible future budgets." With that we planned that while a user is onboarding we are going to want to get some goals from them, and also display a budget in a fun and easy way to look at.`
 2. Choose a user story. Describe your **reasoning** as you broke down that particular user story into individual tasks.
+    `One of our user stories is "As a user, I should be onboarded." We decided to break this task down into 3 parts: Data Gathering, Setting Up Goals, and Overall Onboarding. We then took these 3 categories and made checklists for each of them to break it down even further and bring the details to life.`
 3. How long do you think the above user story will take to complete? Explain your reasoning.
+    `It is hard to tell at this point. I think the Setting Up Goals and Overall Onboarding will not take that long, but we do not have access to our database yet so knowing what questions we can ask for the Data Gathering part is hard to guess how long it will take to complete.`
 
 ## Prompt 2 - Communicating Technical Decisions
 
@@ -41,11 +44,11 @@ This lesson we reinforced how to turn your responsibilities and tasks into power
 
 ## Personal and Contact Information:
 
-- [ ]  First and last name are added to profile
-- [ ]  Created a [shortened, unique](https://www.linkedin.com/help/linkedin/answer/87/customizing-your-public-profile-url?lang=en) LinkedIn URL
-- [ ]  Profile picture is clear, shows my face (not a selfie), and is in front of a professional background
-- [ ]  Listed title, `i.e. iOS Developer`, below name with any keyword associations included.  **For example: “Data Scientist, with a passion for data visualizations and open-source code”**
-    - [ ]  Title **does not** pull from my current position (this is a LinkedIn default, must manually change), unless that position is relevant to the tech industry
+- [X]  First and last name are added to profile
+- [X]  Created a [shortened, unique](https://www.linkedin.com/help/linkedin/answer/87/customizing-your-public-profile-url?lang=en) LinkedIn URL
+- [X]  Profile picture is clear, shows my face (not a selfie), and is in front of a professional background
+- [X]  Listed title, `i.e. iOS Developer`, below name with any keyword associations included.  **For example: “Data Scientist, with a passion for data visualizations and open-source code”**
+    - [X]  Title **does not** pull from my current position (this is a LinkedIn default, must manually change), unless that position is relevant to the tech industry
 
 ## About Section
 
@@ -53,7 +56,7 @@ This lesson we reinforced how to turn your responsibilities and tasks into power
 
 ## Experience Section
 
-- [ ]  Listed all, or at least the last 3-5 years of previous professional roles
+- [X]  Listed all, or at least the last 3-5 years of previous professional roles
 - [ ]  Included 2-4 power statements for each experience listed (okay to copy and paste from resume)
     - [ ]  Power statements for each experience [are bulleted](https://www.linkedin.com/pulse/update-how-add-bullet-points-your-linkedin-profile-erin-dore-miller/), not in paragraph form.
     - [ ]  Listed responsibilities in bullet point format (I **did not** leave in paragraph format). If you use Windows, hold down the ALT key and type 0149 on the keypad. Release the ALT key and the bullet point will appear. On a Mac, press Opt + 8 on the keyboard.
@@ -63,12 +66,12 @@ This lesson we reinforced how to turn your responsibilities and tasks into power
 
 ## Education
 
-- [ ]  Listed all education and relevant certifications: including name of the institution, degree type, and date the degree was received or will be received `i.e. May 2020` or `Expected July 2025`
-    - [ ]  I **did** link to Lambda School properly (Lambda logo saved)
+- [X]  Listed all education and relevant certifications: including name of the institution, degree type, and date the degree was received or will be received `i.e. May 2020` or `Expected July 2025`
+    - [X]  I **did** link to Lambda School properly (Lambda logo saved)
 
 ## Skills
 
-- [ ]  **Listed** all technical skills, methodologies, and platforms with strongest skills [pinned at the top of the list](https://www.linkedin.com/help/linkedin/answer/35265/display-order-of-skill-endorsements?lang=en)
+- [X]  **Listed** all technical skills, methodologies, and platforms with strongest skills [pinned at the top of the list](https://www.linkedin.com/help/linkedin/answer/35265/display-order-of-skill-endorsements?lang=en)
 
 With all the above checked off, go to LinkedIn's "Accomplishments" section to add a project. Articulating the tasks or project work you're doing publicly on a platform like LinkedIn can help you gain visibility! LinkedIn is designed to produce better results, recommendations, and engagement for users who have thorough profiles and who upload content. If you haven't done so already, write a few power statements as well as a project description to populate those content fields and describe your project on LinkedIn.
 
@@ -80,13 +83,13 @@ Here's the checklist you'll want to complete for projects:
 
 ## Projects (Under "Accomplishments")
 
-- [ ]  **Listed** title for Labs projects
-- [ ]  **Included one sentence** to describe what the project does
-    - [ ]  I **did not** use the phrase `This project was...` or `This project is...` in description
-    - [ ]  I **did not** use more than one sentence to describe the project
-- [ ]  **Listed** the tech stack used for each project (see below for example)
-- [ ]  **Listed 2-3 power statement bullets** highlighting my responsibilities on project
-- [ ]  **Did not** use the words "capstone" "Lambda Labs" or "School" project
+- [X]  **Listed** title for Labs projects
+- [X]  **Included one sentence** to describe what the project does
+    - [X]  I **did not** use the phrase `This project was...` or `This project is...` in description
+    - [X]  I **did not** use more than one sentence to describe the project
+- [X]  **Listed** the tech stack used for each project (see below for example)
+- [X]  **Listed 2-3 power statement bullets** highlighting my responsibilities on project
+- [X]  **Did not** use the words "capstone" "Lambda Labs" or "School" project
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18ad1d52-5679-4f4e-80bc-aa0341034f93/Untitled.png](https://tk-assets.lambdaschool.com/4f07d726-0a78-4014-82f4-dd56a02f21bc_Untitled2.png)
 
